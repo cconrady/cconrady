@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @cconrady (Chris Conrady), and I'm a Data Analyst (2 years work experience) and a Data Scientist (2 years postgrad experience).
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-cconrady/cconrady is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Chris Conrady (@cconrady). I hold a MS Data Science (with distinction) from a top 200 ranked university.
+- 👀 I'm in the job market for any challenging role within data analysis or data science.
+- 📫 You can reach me at christopherrconrady@gmail.com, or directly on Whatsapp at +44(0) 777 55 77 464.
